@@ -1,5 +1,5 @@
 package com.nexus.media.model;
 
-public class MediaModel {
+public class Video {
     
 }
